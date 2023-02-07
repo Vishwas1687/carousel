@@ -1,4 +1,4 @@
-export const data=[{
+const data=[{
 url:'https://media.istockphoto.com/id/1382384282/photo/bangalore-or-bengaluru.jpg?s=612x612&w=0&k=20&c=6pxwL3JxNV2B_NZSLMZLhrSLqAbyCPlGuSZYKImpjKQ=',
     name:'bangalore'
 },
@@ -19,3 +19,4 @@ url:'https://media.istockphoto.com/id/1382384282/photo/bangalore-or-bengaluru.jp
     name:'celestial'
 } 
 ]
+export default data

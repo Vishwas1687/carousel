@@ -1,0 +1,34 @@
+.image-slider{
+    position:relative;
+    height:100%;
+}
+.arrow-left{
+   position:absolute;
+   top:50%;
+   left:1rem;
+   font-size:2rem;
+   transform:translate(0,-50%);
+   z-index:2;
+   color:white;
+}
+
+.arrow-right {
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    font-size:2rem;
+    transform: translate(0, -50%);
+    z-index: 2;
+    color:white;
+}
+
+.dots{
+    display:flex;
+    justify-content:space-between;
+    margin: 0 12rem;
+}
+
+.dot{
+    font-size:4rem;
+}
+

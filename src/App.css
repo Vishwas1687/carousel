@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  background-color: yellowgreen;
+}
+.title{
+  margin-top:3rem;
+}
+.title h1{
+  color: greenyellow;
+  text-align: center;
+}
+.image-container {
+  height: 60vh;
+  width: 40vw;
+  margin: 0 auto;
+}
